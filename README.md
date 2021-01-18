@@ -1,4 +1,4 @@
-# My first Vue.js project ![image](https://vuejs.org/images/logo.png)
+# My first Vue.js project ![image](https://vuejs.org/images/logo.png){:height="50%" width="50%"}
 I decided to create this repository for someone that may want to learn a little about VUE.JS.
 The project contains a paginated news feed called from a json file with a search function.
 
