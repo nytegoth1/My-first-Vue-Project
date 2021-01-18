@@ -4,7 +4,7 @@ The project contains a paginated news feed called from a json file with a search
 
 ## Build Setup
 
-``` bash
+
 #clone
 git clone https://github.com/nytegoth1/udacity_book_project.git
 
