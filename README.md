@@ -11,4 +11,5 @@ The project contains a paginated news feed called from a json file with a search
 
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, consult 
+the [docs for vue-loader](http://vuejs.github.io/vue-loader).
