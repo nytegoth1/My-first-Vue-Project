@@ -4,16 +4,11 @@ The project contains a paginated news feed called from a json file with a search
 
 ## Build Setup
 
-clone: git clone `git clone https://github.com/nytegoth1/My-first-Vue-Project.git`
+* to clone: `git clone https://github.com/nytegoth1/My-first-Vue-Project.git`
+* install all project dependencies with `npm install`
+* start the development server with `npm run dev`
+* build for production with minification `npm run build`
 
-## install dependencies
-npm install
-
-## serve with hot reload at localhost:8080
-npm run dev
-
-## build for production with minification
-npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
