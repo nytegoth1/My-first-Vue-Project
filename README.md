@@ -1,7 +1,4 @@
 # My first Vue.js project ![image](https://vuejs.org/images/logo.png)
-{:refdef: style="width: 10px; height: 10px"}
-[![Octocat](https://vuejs.org/images/logo.png)](./somelink)
-{: refdef}
 I decided to create this repository for someone that may want to learn a little about VUE.JS.
 The project contains a paginated news feed called from a json file with a search function.
 
