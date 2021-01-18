@@ -6,13 +6,13 @@ The project contains a paginated news feed called from a json file with a search
 
 clone: git clone `git clone https://github.com/nytegoth1/My-first-Vue-Project.git`
 
-# install dependencies
+## install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+## serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+## build for production with minification
 npm run build
 ```
 
